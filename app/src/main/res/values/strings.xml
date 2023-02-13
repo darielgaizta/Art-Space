@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="ny">New York</string>
+    <string name="london">London</string>
+    <string name="namsan">Namsan</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="greatwall">The Great Wall</string>
+    <string name="borobudur">Candi Borobudur</string>
+    <string name="maldives">Maldives</string>
+    <string name="ny_year">2010</string>
+    <string name="london_year">2009</string>
+    <string name="namsan_year">2013</string>
+    <string name="tokyo_year">2017</string>
+    <string name="greatwall_year">2014</string>
+    <string name="borobudur_year">2020</string>
+    <string name="maldives_year">2017</string>
+</resources>
